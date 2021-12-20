@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## General Stats
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristosHadjichristofi&show_icons=true&theme=highcontrast" /></a>
+<a href="https://christoshadjichristofi.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristosHadjichristofi&show_icons=true&theme=highcontrast" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosHadjichristofi&theme=highcontrast&langs_count=3&hide=html,css,ejs,jupyter%20notebook" /></a>
+<a href="https://christoshadjichristofi.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosHadjichristofi&theme=highcontrast&langs_count=3&hide=html,css,ejs,jupyter%20notebook" /></a>
 <br>
