@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## General Stats
-
 ---
 
 | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristosHadjichristofi&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/ChristosHadjichristofi?tab=repositories) | [![Most used PLs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosHadjichristofi&theme=highcontrast&langs_count=3&hide=html,css,ejs,jupyter%20notebook)](https://github.com/ChristosHadjichristofi?tab=repositories) |
