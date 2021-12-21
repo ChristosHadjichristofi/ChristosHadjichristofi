@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 
 ## General Stats
 
-<a href="https://christoshadjichristofi.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristosHadjichristofi&show_icons=true&theme=highcontrast" /></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://christoshadjichristofi.github.io/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosHadjichristofi&theme=highcontrast&langs_count=3&hide=html,css,ejs,jupyter%20notebook" /></a>
-<br>
+---
+
+| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristosHadjichristofi&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/ChristosHadjichristofi?tab=repositories) | [![Most used PLs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosHadjichristofi&theme=highcontrast&langs_count=3&hide=html,css,ejs,jupyter%20notebook)](https://github.com/ChristosHadjichristofi?tab=repositories) |
+|:-:|:-:|
+
+<p align="center">
+	<img alt="Visitors" src="https://komarev.com/ghpvc/?username=ChristosHadjichristofi&color=yellow&style=flat&label=visitors" />
+	<img alt="Followers" src="https://img.shields.io/github/followers/ChristosHadjichristofi?color=yellow" />
+	<img alt="Stars" src="https://img.shields.io/github/stars/ChristosHadjichristofi?color=yellow" />
+</p>
+
+---
