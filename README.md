@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ---
 
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristosHadjichristofi&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/ChristosHadjichristofi?tab=repositories) | [![Most used PLs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristosHadjichristofi&theme=highcontrast&langs_count=3&hide=html,css,ejs,jupyter%20notebook)](https://github.com/ChristosHadjichristofi?tab=repositories) |
+| [![GitHub stats](https://stats-github-readme.vercel.app/api?username=ChristosHadjichristofi&show_icons=true&theme=highcontrast&count_private=true)](https://github.com/ChristosHadjichristofi?tab=repositories) | [![Most used PLs](https://stats-github-readme.vercel.app/api/top-langs/?username=ChristosHadjichristofi&theme=highcontrast&langs_count=3&hide=html,css,ejs,jupyter%20notebook)](https://github.com/ChristosHadjichristofi?tab=repositories) |
 |:-:|:-:|
 
 <p align="center">
