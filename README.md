@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <a href="https://ejs.co/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/ejs_icon_132422.png" alt="ejs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" /> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="react" width="40" height="40" /> </a>
-<a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/40044042/170675866-4b9dc400-9e9e-456a-8188-6a2adc627e93.png" alt="JavaFX" width="40" height="40" /> </a>
+<a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/40044042/170675866-4b9dc400-9e9e-456a-8188-6a2adc627e93.png" alt="JavaFX" width="65" height="40" /> </a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
