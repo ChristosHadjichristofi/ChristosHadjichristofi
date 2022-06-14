@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ### About me:
 
 - 🎓 I’m on final year of studies
-- 🔭 I’m currently working on my thesis
+- 🔭 I’m currently working on side projects
 - 🌱 I’m currently learning Blockchain Tech (Ethereum, Smart Contracts - Solidity, Geth)
 - 💡 I’m interested in anything that involves problem-solving and programming 🔥
 <!-- - 👯 I’m looking to collaborate on ... -->
