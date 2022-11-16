@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 ### About me:
 
 - 🎓 Electrical and Computer Engineering NTUA graduate, specialization in Computer Science
+- 🎓 PhD Cand. at NTUA
 - 🔭 I’m currently working on side projects
 - 🌱 I’m currently learning Blockchain Tech (Ethereum, Smart Contracts - Solidity, Geth)
 - 💡 I’m interested in anything that involves problem-solving and programming 🔥
