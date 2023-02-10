@@ -7,11 +7,12 @@ Here are some ideas to get you started:
 
 ### About me:
 
+- 👩‍💻 Software Engineer
 - 🎓 Electrical and Computer Engineering NTUA graduate, specialization in Computer Science
-- 🎓 PhD Cand. at NTUA
-- 🔭 I’m currently working on side projects
-- 🌱 I’m currently learning Blockchain Tech (Ethereum, Smart Contracts - Solidity, Geth)
-- 💡 I’m interested in anything that involves problem-solving and programming 🔥
+	- PhD Cand. at SoftLab NTUA
+- 🔭 Currently working on side projects
+- 🌱 Currently learning Blockchain Tech (Ethereum, Smart Contracts - Solidity, Geth)
+- 💡 Interested in anything that involves problem-solving and programming 🔥
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
