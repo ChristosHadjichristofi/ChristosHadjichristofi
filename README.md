@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 👩‍💻 Software Engineer
 - 🎓 Electrical and Computer Engineering NTUA graduate, specialization in Computer Science
 	- PhD Cand. at SoftLab NTUA
-- 🔭 Currently working on side projects
-- 🌱 Currently learning Blockchain Tech (Ethereum, Smart Contracts - Solidity, Geth)
+- 🔭 Currently working on Research Projects
+- 🌱 Currently learning C4 Model
 - 💡 Interested in anything that involves problem-solving and programming 🔥
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
