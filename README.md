@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🎓 Electrical and Computer Engineering NTUA graduate, specialization in Computer Science
 	- PhD Cand. at SoftLab NTUA
 - 🔭 Currently working on Research Projects
-- 🌱 Currently learning C4 Model
+- 🌱 Currently exploring the possibilities of AI in Software Architecture and Design
 - 💡 Interested in anything that involves problem-solving and programming 🔥
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
